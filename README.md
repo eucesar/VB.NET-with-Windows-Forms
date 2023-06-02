@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-  <img align="center" alt="vb-net" height="50" width="70" src="./vb-net.png">
+  <img align="center" alt="vb-net" height="90 width="70" src="./vb-net.png">
 </p>
 
 > 🌱👨‍💻 - I created variables and control flow, I understood Conditionals and loops, I got to know the main types of VB.NET, I started to build a desktop program. I created this project using the Alura course that taught me all the VB.NET syntex.
